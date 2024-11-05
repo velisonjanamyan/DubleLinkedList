@@ -1,1 +1,1 @@
-# DubleLinkedList
+MyLinkList is a custom doubly linked list implementation in Java that supports basic linked list operations, including adding, removing, and searching for elements. This implementation includes additional utility methods like serializing and deserializing the list to/from a file.
